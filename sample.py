@@ -3,8 +3,9 @@ def print_sample(*args, **kwargs):
 
 
 print("some unformatted text")
-print(  "more unformatted text"  )
+print("more unformatted text")
 
-def   ugly_method(  spacings)->   int:
-    print("oh gee"  )
-    return  0
+
+def ugly_method(spacings) -> int:
+    print("oh gee")
+    return 0
