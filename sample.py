@@ -3,3 +3,7 @@ def print_sample(*args, **kwargs):
 
 
 print("some unformatted text")
+print(  "more unformatted text"  )
+
+def   ugly_method(  spacings)->   :
+    print("oh gee"  )
